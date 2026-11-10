@@ -39,6 +39,26 @@ This sensor and these example scripts are intended for learning and hobby projec
 
 ---
 
+## Skills & technologies
+
+`Python`
+
+
+## Repository structure
+
+Key files and folders (not exhaustive):
+
+- `README.md`
+- `mq2_gas_analog_mcp3008.py`
+- `mq2_gas_logger.py`
+- `mq2_wireless_monitor.py`
+
+
+## How it works
+
+Python source is present, including `mq2_gas_analog_mcp3008.py`. Review configuration and dependencies before running; use a virtual environment and follow the project's setup instructions.
+
+
 ## Maintenance & Audit
 
 - **Audit date:** 10 November 2026

@@ -35,3 +35,14 @@ This sensor and these example scripts are intended for learning and hobby projec
 | `examples/mq2_gas_logger.py` | Reads the DO pin and logs each reading with a timestamp to `gas_log.csv` |
 | `examples/mq2_gas_analog_mcp3008.py` | Reads the AO pin through an MCP3008 ADC and logs raw values and voltage to `gas_analog_log.csv` |
 | `examples/mq2_wireless_monitor.py` | Same DO-based monitoring, plus a live web page and JSON API so you can check gas status from any device on your Wi-Fi network |
+
+
+---
+
+## Maintenance & Audit
+
+- **Audit date:** 10 November 2026
+- **Documentation status:** README reviewed and audit record added on this date.
+- **Scope and evidence:** This is a documentation-level maintenance pass. It does not establish that source code compiles, dependencies are current, security has been tested, or hardware/runtime behavior has been verified.
+- **Code and tests:** No new functional code changes or test results are claimed by this README update. Run project-specific build, test, and hardware/runtime checks before relying on the project.
+- **Maintenance baseline:** Documentation status recorded through 10 November 2026; revisit setup instructions, dependencies, known limitations, and tests when the project changes.
